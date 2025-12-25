@@ -1,7 +1,8 @@
-## Hi there 👋
-<video autoplay muted loop>
-  <source src="[demo.webm](https://github.com/user-attachments/assets/2ed2baea-ffc4-497f-95a5-5f14dedfcb39)" type="video/webm">
-</video>
+## Hi there, I'm Nancy Wei 👋
+🎓 Student  
+💻 Passionate about software development  
+🌍 New to open source and eager to contribute
+Nice to meet you all! 😊
 <!--
 **NancyWei123/NancyWei123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
