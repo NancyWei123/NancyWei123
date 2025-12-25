@@ -1,8 +1,10 @@
 ## Hi there, I'm Nancy Wei 👋
+
 🎓 Student  
 💻 Passionate about software development  
-🌍 New to open source and eager to contribute
-Nice to meet you all! 😊
+🌍 New to open source and eager to contribute  
+Nice to meet you! 😊
+
 <!--
 **NancyWei123/NancyWei123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
